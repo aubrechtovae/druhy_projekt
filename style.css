@@ -1,4 +1,8 @@
 body{
     background-color: yellow;
-    color: hotpink;
+    color: cyan;
+}
+
+h1 {
+    font-size: 64px;
 }
